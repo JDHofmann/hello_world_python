@@ -30,3 +30,8 @@
 # '''
 # print(a)
 
+# b = 'Zarro is a weirdy'
+# print(b[0:5])
+
+c = [1,2,3,4]
+print(c[1:3])
